@@ -1,0 +1,1762 @@
+{
+  "checkedAt": "2026-10-04T10:58:56.749Z",
+  "base": "http://localhost:4173",
+  "assetCount": 292,
+  "runtimeCount": 152,
+  "originalCount": 140,
+  "failedCount": 0,
+  "checks": [
+    {
+      "url": "/assets/cg/evelyn/avatar.webp",
+      "bytes": 31634,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/evelyn/dances.png",
+      "bytes": 2269577,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/evelyn/dances.webp",
+      "bytes": 1169324,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/evelyn/everyday.png",
+      "bytes": 1410228,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/evelyn/everyday.webp",
+      "bytes": 993876,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/evelyn/gestures.png",
+      "bytes": 1395005,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/evelyn/gestures.webp",
+      "bytes": 981548,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/evelyn/low/avatar.webp",
+      "bytes": 30640,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/evelyn/low/dances.png",
+      "bytes": 2255293,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/evelyn/low/dances.webp",
+      "bytes": 1152794,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/evelyn/low/everyday.png",
+      "bytes": 1480217,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/evelyn/low/everyday.webp",
+      "bytes": 1056286,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/evelyn/low/gestures.png",
+      "bytes": 1378084,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/evelyn/low/gestures.webp",
+      "bytes": 965260,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/evelyn/low/master.png",
+      "bytes": 1649203,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/evelyn/low/master.webp",
+      "bytes": 575244,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/evelyn/low/moments.png",
+      "bytes": 1439595,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/evelyn/low/moments.webp",
+      "bytes": 1018868,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/evelyn/low/motion-v3/ballet.png",
+      "bytes": 2267134,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/evelyn/low/motion-v3/ballet.webp",
+      "bytes": 1259764,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/evelyn/low/motion-v3/dance.png",
+      "bytes": 2322362,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/evelyn/low/motion-v3/dance.webp",
+      "bytes": 1219154,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/evelyn/low/motion-v3/groove.png",
+      "bytes": 2207768,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/evelyn/low/motion-v3/groove.webp",
+      "bytes": 1094738,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/evelyn/low/motion-v3/shuffle.png",
+      "bytes": 2284956,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/evelyn/low/motion-v3/shuffle.webp",
+      "bytes": 1174630,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/evelyn/low/motion-v3/sway.png",
+      "bytes": 2159092,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/evelyn/low/motion-v3/sway.webp",
+      "bytes": 1092474,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/evelyn/low/motion-v3/swing.png",
+      "bytes": 2193069,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/evelyn/low/motion-v3/swing.webp",
+      "bytes": 1055416,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/evelyn/master.png",
+      "bytes": 1634377,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/evelyn/master.webp",
+      "bytes": 573998,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/evelyn/moments.png",
+      "bytes": 1476519,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/evelyn/moments.webp",
+      "bytes": 1030210,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/evelyn/motion-v3/ballet.png",
+      "bytes": 2284516,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/evelyn/motion-v3/ballet.webp",
+      "bytes": 1192400,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/evelyn/motion-v3/dance.png",
+      "bytes": 2348248,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/evelyn/motion-v3/dance.webp",
+      "bytes": 1316276,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/evelyn/motion-v3/groove.png",
+      "bytes": 2253312,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/evelyn/motion-v3/groove.webp",
+      "bytes": 1202888,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/evelyn/motion-v3/shuffle.png",
+      "bytes": 2300584,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/evelyn/motion-v3/shuffle.webp",
+      "bytes": 1191184,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/evelyn/motion-v3/sway.png",
+      "bytes": 2195622,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/evelyn/motion-v3/sway.webp",
+      "bytes": 1109496,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/evelyn/motion-v3/swing.png",
+      "bytes": 2203991,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/evelyn/motion-v3/swing.webp",
+      "bytes": 1094850,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/gufei/avatar.webp",
+      "bytes": 19428,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/gufei/dances.png",
+      "bytes": 2029056,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/gufei/dances.webp",
+      "bytes": 904758,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/gufei/everyday.png",
+      "bytes": 1074070,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/gufei/everyday.webp",
+      "bytes": 755300,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/gufei/gestures.png",
+      "bytes": 1872429,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/gufei/gestures.webp",
+      "bytes": 680618,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/gufei/low/avatar.webp",
+      "bytes": 19814,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/gufei/low/dances.png",
+      "bytes": 2058040,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/gufei/low/dances.webp",
+      "bytes": 915964,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/gufei/low/everyday.png",
+      "bytes": 1059430,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/gufei/low/everyday.webp",
+      "bytes": 749656,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/gufei/low/gestures.png",
+      "bytes": 2148902,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/gufei/low/gestures.webp",
+      "bytes": 1090052,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/gufei/low/master.png",
+      "bytes": 1380672,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/gufei/low/master.webp",
+      "bytes": 405340,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/gufei/low/moments.png",
+      "bytes": 1061013,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/gufei/low/moments.webp",
+      "bytes": 754118,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/gufei/low/motion-v3/ballet.png",
+      "bytes": 2001603,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/gufei/low/motion-v3/ballet.webp",
+      "bytes": 804154,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/gufei/low/motion-v3/dance.png",
+      "bytes": 2041384,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/gufei/low/motion-v3/dance.webp",
+      "bytes": 880504,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/gufei/low/motion-v3/groove.png",
+      "bytes": 2036234,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/gufei/low/motion-v3/groove.webp",
+      "bytes": 880598,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/gufei/low/motion-v3/shuffle.png",
+      "bytes": 2064654,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/gufei/low/motion-v3/shuffle.webp",
+      "bytes": 882522,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/gufei/low/motion-v3/sway.png",
+      "bytes": 2002537,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/gufei/low/motion-v3/sway.webp",
+      "bytes": 806540,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/gufei/low/motion-v3/swing.png",
+      "bytes": 2054159,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/gufei/low/motion-v3/swing.webp",
+      "bytes": 852702,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/gufei/master.png",
+      "bytes": 1390480,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/gufei/master.webp",
+      "bytes": 415502,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/gufei/moments.png",
+      "bytes": 990336,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/gufei/moments.webp",
+      "bytes": 695900,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/gufei/motion-v3/ballet.png",
+      "bytes": 1986466,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/gufei/motion-v3/ballet.webp",
+      "bytes": 770212,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/gufei/motion-v3/dance.png",
+      "bytes": 2044612,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/gufei/motion-v3/dance.webp",
+      "bytes": 920056,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/gufei/motion-v3/groove.png",
+      "bytes": 2008290,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/gufei/motion-v3/groove.webp",
+      "bytes": 820372,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/gufei/motion-v3/shuffle.png",
+      "bytes": 2033304,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/gufei/motion-v3/shuffle.webp",
+      "bytes": 844100,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/gufei/motion-v3/sway.png",
+      "bytes": 1998684,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/gufei/motion-v3/sway.webp",
+      "bytes": 797856,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/gufei/motion-v3/swing.png",
+      "bytes": 2058652,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/gufei/motion-v3/swing.webp",
+      "bytes": 900052,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/nanzhi/avatar.webp",
+      "bytes": 29220,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/nanzhi/dances.png",
+      "bytes": 2195588,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/nanzhi/dances.webp",
+      "bytes": 1067414,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/nanzhi/everyday.png",
+      "bytes": 1350220,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/nanzhi/everyday.webp",
+      "bytes": 967710,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/nanzhi/gestures.png",
+      "bytes": 1305588,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/nanzhi/gestures.webp",
+      "bytes": 935276,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/nanzhi/low/avatar.webp",
+      "bytes": 28972,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/nanzhi/low/dances.png",
+      "bytes": 2177024,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/nanzhi/low/dances.webp",
+      "bytes": 1063424,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/nanzhi/low/everyday.png",
+      "bytes": 1273645,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/nanzhi/low/everyday.webp",
+      "bytes": 922012,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/nanzhi/low/gestures.png",
+      "bytes": 1339446,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/nanzhi/low/gestures.webp",
+      "bytes": 972616,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/nanzhi/low/master.png",
+      "bytes": 1567766,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/nanzhi/low/master.webp",
+      "bytes": 541064,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/nanzhi/low/moments.png",
+      "bytes": 1269959,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/nanzhi/low/moments.webp",
+      "bytes": 912816,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/nanzhi/low/motion-v3/ballet.png",
+      "bytes": 2175424,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/nanzhi/low/motion-v3/ballet.webp",
+      "bytes": 1014854,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/nanzhi/low/motion-v3/dance.png",
+      "bytes": 1961144,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/nanzhi/low/motion-v3/dance.webp",
+      "bytes": 773130,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/nanzhi/low/motion-v3/groove.png",
+      "bytes": 2146321,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/nanzhi/low/motion-v3/groove.webp",
+      "bytes": 968566,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/nanzhi/low/motion-v3/shuffle.png",
+      "bytes": 2134833,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/nanzhi/low/motion-v3/shuffle.webp",
+      "bytes": 997058,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/nanzhi/low/motion-v3/sway.png",
+      "bytes": 2203262,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/nanzhi/low/motion-v3/sway.webp",
+      "bytes": 1057176,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/nanzhi/low/motion-v3/swing.png",
+      "bytes": 2198231,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/nanzhi/low/motion-v3/swing.webp",
+      "bytes": 1048914,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/nanzhi/master.png",
+      "bytes": 1600477,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/nanzhi/master.webp",
+      "bytes": 560314,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/nanzhi/moments.png",
+      "bytes": 1201354,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/nanzhi/moments.webp",
+      "bytes": 854370,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/nanzhi/motion-v3/ballet.png",
+      "bytes": 2173099,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/nanzhi/motion-v3/ballet.webp",
+      "bytes": 1020750,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/nanzhi/motion-v3/dance.png",
+      "bytes": 2104763,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/nanzhi/motion-v3/dance.webp",
+      "bytes": 986410,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/nanzhi/motion-v3/groove.png",
+      "bytes": 2139501,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/nanzhi/motion-v3/groove.webp",
+      "bytes": 966508,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/nanzhi/motion-v3/shuffle.png",
+      "bytes": 2121977,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/nanzhi/motion-v3/shuffle.webp",
+      "bytes": 943040,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/nanzhi/motion-v3/sway.png",
+      "bytes": 2172102,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/nanzhi/motion-v3/sway.webp",
+      "bytes": 1030192,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/nanzhi/motion-v3/swing.png",
+      "bytes": 2192666,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/nanzhi/motion-v3/swing.webp",
+      "bytes": 1041010,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/reina/avatar.webp",
+      "bytes": 21116,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/reina/dances.png",
+      "bytes": 2095798,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/reina/dances.webp",
+      "bytes": 1065702,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/reina/everyday.png",
+      "bytes": 1101413,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/reina/everyday.webp",
+      "bytes": 756590,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/reina/gestures.png",
+      "bytes": 1869452,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/reina/gestures.webp",
+      "bytes": 666112,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/reina/low/avatar.webp",
+      "bytes": 20522,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/reina/low/dances.png",
+      "bytes": 2064936,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/reina/low/dances.webp",
+      "bytes": 1176990,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/reina/low/everyday.png",
+      "bytes": 1089391,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/reina/low/everyday.webp",
+      "bytes": 760324,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/reina/low/gestures.png",
+      "bytes": 1875015,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/reina/low/gestures.webp",
+      "bytes": 684290,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/reina/low/master.png",
+      "bytes": 1451867,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/reina/low/master.webp",
+      "bytes": 440100,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/reina/low/moments.png",
+      "bytes": 1074025,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/reina/low/moments.webp",
+      "bytes": 745288,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/reina/low/motion-v3/ballet.png",
+      "bytes": 2011186,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/reina/low/motion-v3/ballet.webp",
+      "bytes": 836120,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/reina/low/motion-v3/dance.png",
+      "bytes": 1999358,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/reina/low/motion-v3/dance.webp",
+      "bytes": 859504,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/reina/low/motion-v3/groove.png",
+      "bytes": 2036352,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/reina/low/motion-v3/groove.webp",
+      "bytes": 852896,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/reina/low/motion-v3/shuffle.png",
+      "bytes": 2026157,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/reina/low/motion-v3/shuffle.webp",
+      "bytes": 845148,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/reina/low/motion-v3/sway.png",
+      "bytes": 2031178,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/reina/low/motion-v3/sway.webp",
+      "bytes": 888298,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/reina/low/motion-v3/swing.png",
+      "bytes": 2035395,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/reina/low/motion-v3/swing.webp",
+      "bytes": 859160,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/reina/master.png",
+      "bytes": 1477482,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/reina/master.webp",
+      "bytes": 461090,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/reina/moments.png",
+      "bytes": 1101657,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/reina/moments.webp",
+      "bytes": 760136,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/reina/motion-v3/ballet.png",
+      "bytes": 2042416,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/reina/motion-v3/ballet.webp",
+      "bytes": 848120,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/reina/motion-v3/dance.png",
+      "bytes": 2030659,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/reina/motion-v3/dance.webp",
+      "bytes": 845136,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/reina/motion-v3/groove.png",
+      "bytes": 2029432,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/reina/motion-v3/groove.webp",
+      "bytes": 863630,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/reina/motion-v3/shuffle.png",
+      "bytes": 2045740,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/reina/motion-v3/shuffle.webp",
+      "bytes": 850018,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/reina/motion-v3/sway.png",
+      "bytes": 2004492,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/reina/motion-v3/sway.webp",
+      "bytes": 809312,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/reina/motion-v3/swing.png",
+      "bytes": 2029977,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/reina/motion-v3/swing.webp",
+      "bytes": 823744,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/selene/avatar.webp",
+      "bytes": 32092,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/selene/dances.png",
+      "bytes": 2403863,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/selene/dances.webp",
+      "bytes": 1318308,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/selene/everyday.png",
+      "bytes": 1629189,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/selene/everyday.webp",
+      "bytes": 1171194,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/selene/gestures.png",
+      "bytes": 1496786,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/selene/gestures.webp",
+      "bytes": 1079868,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/selene/low/avatar.webp",
+      "bytes": 33410,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/selene/low/dances.png",
+      "bytes": 2412263,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/selene/low/dances.webp",
+      "bytes": 1295082,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/selene/low/everyday.png",
+      "bytes": 1504693,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/selene/low/everyday.webp",
+      "bytes": 1083128,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/selene/low/gestures.png",
+      "bytes": 1548135,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/selene/low/gestures.webp",
+      "bytes": 1102800,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/selene/low/master.png",
+      "bytes": 1740843,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/selene/low/master.webp",
+      "bytes": 644002,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/selene/low/moments.png",
+      "bytes": 1478580,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/selene/low/moments.webp",
+      "bytes": 1052962,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/selene/low/motion-v3/ballet.png",
+      "bytes": 2339037,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/selene/low/motion-v3/ballet.webp",
+      "bytes": 1218664,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/selene/low/motion-v3/dance.png",
+      "bytes": 2275428,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/selene/low/motion-v3/dance.webp",
+      "bytes": 1177778,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/selene/low/motion-v3/groove.png",
+      "bytes": 2259693,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/selene/low/motion-v3/groove.webp",
+      "bytes": 1161512,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/selene/low/motion-v3/shuffle.png",
+      "bytes": 2328814,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/selene/low/motion-v3/shuffle.webp",
+      "bytes": 1227288,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/selene/low/motion-v3/sway.png",
+      "bytes": 2242966,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/selene/low/motion-v3/sway.webp",
+      "bytes": 1098808,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/selene/low/motion-v3/swing.png",
+      "bytes": 2317984,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/selene/low/motion-v3/swing.webp",
+      "bytes": 1208824,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/selene/master.png",
+      "bytes": 1824701,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/selene/master.webp",
+      "bytes": 687492,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/selene/moments.png",
+      "bytes": 1565098,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/selene/moments.webp",
+      "bytes": 1103474,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/selene/motion-v3/ballet.png",
+      "bytes": 2417206,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/selene/motion-v3/ballet.webp",
+      "bytes": 1294570,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/selene/motion-v3/dance.png",
+      "bytes": 2313494,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/selene/motion-v3/dance.webp",
+      "bytes": 1180582,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/selene/motion-v3/groove.png",
+      "bytes": 2321424,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/selene/motion-v3/groove.webp",
+      "bytes": 1191418,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/selene/motion-v3/shuffle.png",
+      "bytes": 2382633,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/selene/motion-v3/shuffle.webp",
+      "bytes": 1283640,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/selene/motion-v3/sway.png",
+      "bytes": 2311762,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/selene/motion-v3/sway.webp",
+      "bytes": 1204882,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/selene/motion-v3/swing.png",
+      "bytes": 2381437,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/selene/motion-v3/swing.webp",
+      "bytes": 1260068,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/xinglan/avatar.webp",
+      "bytes": 25918,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/xinglan/dances.png",
+      "bytes": 2162711,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/xinglan/dances.webp",
+      "bytes": 985978,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/xinglan/everyday.png",
+      "bytes": 1202634,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/xinglan/everyday.webp",
+      "bytes": 832820,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/xinglan/gestures.png",
+      "bytes": 1196186,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/xinglan/gestures.webp",
+      "bytes": 822782,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/xinglan/low/avatar.webp",
+      "bytes": 24306,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/xinglan/low/dances.png",
+      "bytes": 2167773,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/xinglan/low/dances.webp",
+      "bytes": 1002524,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/xinglan/low/everyday.png",
+      "bytes": 1273727,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/xinglan/low/everyday.webp",
+      "bytes": 884070,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/xinglan/low/gestures.png",
+      "bytes": 1227424,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/xinglan/low/gestures.webp",
+      "bytes": 853296,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/xinglan/low/master.png",
+      "bytes": 1488016,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/xinglan/low/master.webp",
+      "bytes": 484058,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/xinglan/low/moments.png",
+      "bytes": 1157826,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/xinglan/low/moments.webp",
+      "bytes": 812300,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/xinglan/low/motion-v3/ballet.png",
+      "bytes": 2123430,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/xinglan/low/motion-v3/ballet.webp",
+      "bytes": 951022,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/xinglan/low/motion-v3/dance.png",
+      "bytes": 2062534,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/xinglan/low/motion-v3/dance.webp",
+      "bytes": 984536,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/xinglan/low/motion-v3/groove.png",
+      "bytes": 2092991,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/xinglan/low/motion-v3/groove.webp",
+      "bytes": 954270,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/xinglan/low/motion-v3/shuffle.png",
+      "bytes": 2072836,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/xinglan/low/motion-v3/shuffle.webp",
+      "bytes": 921174,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/xinglan/low/motion-v3/sway.png",
+      "bytes": 2131939,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/xinglan/low/motion-v3/sway.webp",
+      "bytes": 1059254,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/xinglan/low/motion-v3/swing.png",
+      "bytes": 2088574,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/xinglan/low/motion-v3/swing.webp",
+      "bytes": 914602,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/xinglan/master.png",
+      "bytes": 1553011,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/xinglan/master.webp",
+      "bytes": 519892,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/xinglan/moments.png",
+      "bytes": 1170251,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/xinglan/moments.webp",
+      "bytes": 820250,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/xinglan/motion-v3/ballet.png",
+      "bytes": 2177811,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/xinglan/motion-v3/ballet.webp",
+      "bytes": 1020978,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/xinglan/motion-v3/dance.png",
+      "bytes": 2055451,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/xinglan/motion-v3/dance.webp",
+      "bytes": 951690,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/xinglan/motion-v3/groove.png",
+      "bytes": 2075347,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/xinglan/motion-v3/groove.webp",
+      "bytes": 925120,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/xinglan/motion-v3/shuffle.png",
+      "bytes": 2072698,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/xinglan/motion-v3/shuffle.webp",
+      "bytes": 923186,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/xinglan/motion-v3/sway.png",
+      "bytes": 2122375,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/xinglan/motion-v3/sway.webp",
+      "bytes": 1085064,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/xinglan/motion-v3/swing.png",
+      "bytes": 2084777,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/cg/xinglan/motion-v3/swing.webp",
+      "bytes": 925928,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/characters/xiaoman.png",
+      "bytes": 1477692,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/characters/xiaoman.webp",
+      "bytes": 1079810,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/characters/yuqing.png",
+      "bytes": 1136262,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/characters/yuqing.webp",
+      "bytes": 821292,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/characters/zhiyao.png",
+      "bytes": 1182733,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/characters/zhiyao.webp",
+      "bytes": 835068,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/layers/foreground.png",
+      "bytes": 1567228,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/layers/foreground.webp",
+      "bytes": 1108406,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/scenes/bedroom.png",
+      "bytes": 2611759,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/scenes/bedroom.webp",
+      "bytes": 258546,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/scenes/living.png",
+      "bytes": 2497672,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/scenes/living.webp",
+      "bytes": 257954,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/scenes/park.png",
+      "bytes": 3002038,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/scenes/park.webp",
+      "bytes": 406068,
+      "mime": "image/webp",
+      "ok": true
+    },
+    {
+      "url": "/assets/scenes/study.png",
+      "bytes": 2758066,
+      "mime": "image/png",
+      "ok": true
+    },
+    {
+      "url": "/assets/scenes/study.webp",
+      "bytes": 347258,
+      "mime": "image/webp",
+      "ok": true
+    }
+  ]
+}

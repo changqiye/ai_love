@@ -1,0 +1,1026 @@
+{
+  "checkedAt": "2026-10-04T11:01:10.576Z",
+  "base": "http://localhost:4173",
+  "previewChecks": [
+    {
+      "id": "xinglan",
+      "look": "low",
+      "action": "dance",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "xinglan",
+      "look": "low",
+      "action": "sway",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "xinglan",
+      "look": "low",
+      "action": "groove",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "xinglan",
+      "look": "low",
+      "action": "shuffle",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "xinglan",
+      "look": "low",
+      "action": "swing",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "xinglan",
+      "look": "low",
+      "action": "ballet",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "gufei",
+      "look": "low",
+      "action": "dance",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "gufei",
+      "look": "low",
+      "action": "sway",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "gufei",
+      "look": "low",
+      "action": "groove",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "gufei",
+      "look": "low",
+      "action": "shuffle",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "gufei",
+      "look": "low",
+      "action": "swing",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "gufei",
+      "look": "low",
+      "action": "ballet",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "evelyn",
+      "look": "low",
+      "action": "dance",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "evelyn",
+      "look": "low",
+      "action": "sway",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "evelyn",
+      "look": "low",
+      "action": "groove",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "evelyn",
+      "look": "low",
+      "action": "shuffle",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "evelyn",
+      "look": "low",
+      "action": "swing",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "evelyn",
+      "look": "low",
+      "action": "ballet",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "nanzhi",
+      "look": "low",
+      "action": "dance",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "nanzhi",
+      "look": "low",
+      "action": "sway",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "nanzhi",
+      "look": "low",
+      "action": "groove",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "nanzhi",
+      "look": "low",
+      "action": "shuffle",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "nanzhi",
+      "look": "low",
+      "action": "swing",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "nanzhi",
+      "look": "low",
+      "action": "ballet",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "reina",
+      "look": "low",
+      "action": "dance",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "reina",
+      "look": "low",
+      "action": "sway",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "reina",
+      "look": "low",
+      "action": "groove",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "reina",
+      "look": "low",
+      "action": "shuffle",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "reina",
+      "look": "low",
+      "action": "swing",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "reina",
+      "look": "low",
+      "action": "ballet",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "selene",
+      "look": "low",
+      "action": "dance",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "selene",
+      "look": "low",
+      "action": "sway",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "selene",
+      "look": "low",
+      "action": "groove",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "selene",
+      "look": "low",
+      "action": "shuffle",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "selene",
+      "look": "low",
+      "action": "swing",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "selene",
+      "look": "low",
+      "action": "ballet",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "xinglan",
+      "look": "original",
+      "action": "dance",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "xinglan",
+      "look": "original",
+      "action": "sway",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "xinglan",
+      "look": "original",
+      "action": "groove",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "xinglan",
+      "look": "original",
+      "action": "shuffle",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "xinglan",
+      "look": "original",
+      "action": "swing",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "xinglan",
+      "look": "original",
+      "action": "ballet",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "gufei",
+      "look": "original",
+      "action": "dance",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "gufei",
+      "look": "original",
+      "action": "sway",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "gufei",
+      "look": "original",
+      "action": "groove",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "gufei",
+      "look": "original",
+      "action": "shuffle",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "gufei",
+      "look": "original",
+      "action": "swing",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "gufei",
+      "look": "original",
+      "action": "ballet",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "evelyn",
+      "look": "original",
+      "action": "dance",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "evelyn",
+      "look": "original",
+      "action": "sway",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "evelyn",
+      "look": "original",
+      "action": "groove",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "evelyn",
+      "look": "original",
+      "action": "shuffle",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "evelyn",
+      "look": "original",
+      "action": "swing",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "evelyn",
+      "look": "original",
+      "action": "ballet",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "nanzhi",
+      "look": "original",
+      "action": "dance",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "nanzhi",
+      "look": "original",
+      "action": "sway",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "nanzhi",
+      "look": "original",
+      "action": "groove",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "nanzhi",
+      "look": "original",
+      "action": "shuffle",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "nanzhi",
+      "look": "original",
+      "action": "swing",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "nanzhi",
+      "look": "original",
+      "action": "ballet",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "reina",
+      "look": "original",
+      "action": "dance",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "reina",
+      "look": "original",
+      "action": "sway",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "reina",
+      "look": "original",
+      "action": "groove",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "reina",
+      "look": "original",
+      "action": "shuffle",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "reina",
+      "look": "original",
+      "action": "swing",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "reina",
+      "look": "original",
+      "action": "ballet",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "selene",
+      "look": "original",
+      "action": "dance",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "selene",
+      "look": "original",
+      "action": "sway",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "selene",
+      "look": "original",
+      "action": "groove",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "selene",
+      "look": "original",
+      "action": "shuffle",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "selene",
+      "look": "original",
+      "action": "swing",
+      "frame": "1 / 18 帧"
+    },
+    {
+      "id": "selene",
+      "look": "original",
+      "action": "ballet",
+      "frame": "1 / 18 帧"
+    }
+  ],
+  "gameChecks": [
+    {
+      "id": "xinglan",
+      "look": "low",
+      "action": "dance",
+      "name": "洛星澜",
+      "title": "正在欣赏 · 轻快律动"
+    },
+    {
+      "id": "xinglan",
+      "look": "low",
+      "action": "sway",
+      "name": "洛星澜",
+      "title": "正在欣赏 · 月光摇摆"
+    },
+    {
+      "id": "xinglan",
+      "look": "low",
+      "action": "groove",
+      "name": "洛星澜",
+      "title": "正在欣赏 · 日落舞步"
+    },
+    {
+      "id": "xinglan",
+      "look": "low",
+      "action": "shuffle",
+      "name": "洛星澜",
+      "title": "正在欣赏 · 轻盈曳步"
+    },
+    {
+      "id": "xinglan",
+      "look": "low",
+      "action": "swing",
+      "name": "洛星澜",
+      "title": "正在欣赏 · 爵士摇摆"
+    },
+    {
+      "id": "xinglan",
+      "look": "low",
+      "action": "ballet",
+      "name": "洛星澜",
+      "title": "正在欣赏 · 花间圆舞"
+    },
+    {
+      "id": "gufei",
+      "look": "low",
+      "action": "dance",
+      "name": "顾绯",
+      "title": "正在欣赏 · 轻快律动"
+    },
+    {
+      "id": "gufei",
+      "look": "low",
+      "action": "sway",
+      "name": "顾绯",
+      "title": "正在欣赏 · 月光摇摆"
+    },
+    {
+      "id": "gufei",
+      "look": "low",
+      "action": "groove",
+      "name": "顾绯",
+      "title": "正在欣赏 · 日落舞步"
+    },
+    {
+      "id": "gufei",
+      "look": "low",
+      "action": "shuffle",
+      "name": "顾绯",
+      "title": "正在欣赏 · 轻盈曳步"
+    },
+    {
+      "id": "gufei",
+      "look": "low",
+      "action": "swing",
+      "name": "顾绯",
+      "title": "正在欣赏 · 爵士摇摆"
+    },
+    {
+      "id": "gufei",
+      "look": "low",
+      "action": "ballet",
+      "name": "顾绯",
+      "title": "正在欣赏 · 花间圆舞"
+    },
+    {
+      "id": "evelyn",
+      "look": "low",
+      "action": "dance",
+      "name": "伊芙琳",
+      "title": "正在欣赏 · 轻快律动"
+    },
+    {
+      "id": "evelyn",
+      "look": "low",
+      "action": "sway",
+      "name": "伊芙琳",
+      "title": "正在欣赏 · 月光摇摆"
+    },
+    {
+      "id": "evelyn",
+      "look": "low",
+      "action": "groove",
+      "name": "伊芙琳",
+      "title": "正在欣赏 · 日落舞步"
+    },
+    {
+      "id": "evelyn",
+      "look": "low",
+      "action": "shuffle",
+      "name": "伊芙琳",
+      "title": "正在欣赏 · 轻盈曳步"
+    },
+    {
+      "id": "evelyn",
+      "look": "low",
+      "action": "swing",
+      "name": "伊芙琳",
+      "title": "正在欣赏 · 爵士摇摆"
+    },
+    {
+      "id": "evelyn",
+      "look": "low",
+      "action": "ballet",
+      "name": "伊芙琳",
+      "title": "正在欣赏 · 花间圆舞"
+    },
+    {
+      "id": "nanzhi",
+      "look": "low",
+      "action": "dance",
+      "name": "南栀",
+      "title": "正在欣赏 · 轻快律动"
+    },
+    {
+      "id": "nanzhi",
+      "look": "low",
+      "action": "sway",
+      "name": "南栀",
+      "title": "正在欣赏 · 月光摇摆"
+    },
+    {
+      "id": "nanzhi",
+      "look": "low",
+      "action": "groove",
+      "name": "南栀",
+      "title": "正在欣赏 · 日落舞步"
+    },
+    {
+      "id": "nanzhi",
+      "look": "low",
+      "action": "shuffle",
+      "name": "南栀",
+      "title": "正在欣赏 · 轻盈曳步"
+    },
+    {
+      "id": "nanzhi",
+      "look": "low",
+      "action": "swing",
+      "name": "南栀",
+      "title": "正在欣赏 · 爵士摇摆"
+    },
+    {
+      "id": "nanzhi",
+      "look": "low",
+      "action": "ballet",
+      "name": "南栀",
+      "title": "正在欣赏 · 花间圆舞"
+    },
+    {
+      "id": "reina",
+      "look": "low",
+      "action": "dance",
+      "name": "蕾娜",
+      "title": "正在欣赏 · 轻快律动"
+    },
+    {
+      "id": "reina",
+      "look": "low",
+      "action": "sway",
+      "name": "蕾娜",
+      "title": "正在欣赏 · 月光摇摆"
+    },
+    {
+      "id": "reina",
+      "look": "low",
+      "action": "groove",
+      "name": "蕾娜",
+      "title": "正在欣赏 · 日落舞步"
+    },
+    {
+      "id": "reina",
+      "look": "low",
+      "action": "shuffle",
+      "name": "蕾娜",
+      "title": "正在欣赏 · 轻盈曳步"
+    },
+    {
+      "id": "reina",
+      "look": "low",
+      "action": "swing",
+      "name": "蕾娜",
+      "title": "正在欣赏 · 爵士摇摆"
+    },
+    {
+      "id": "reina",
+      "look": "low",
+      "action": "ballet",
+      "name": "蕾娜",
+      "title": "正在欣赏 · 花间圆舞"
+    },
+    {
+      "id": "selene",
+      "look": "low",
+      "action": "dance",
+      "name": "赛琳",
+      "title": "正在欣赏 · 轻快律动"
+    },
+    {
+      "id": "selene",
+      "look": "low",
+      "action": "sway",
+      "name": "赛琳",
+      "title": "正在欣赏 · 月光摇摆"
+    },
+    {
+      "id": "selene",
+      "look": "low",
+      "action": "groove",
+      "name": "赛琳",
+      "title": "正在欣赏 · 日落舞步"
+    },
+    {
+      "id": "selene",
+      "look": "low",
+      "action": "shuffle",
+      "name": "赛琳",
+      "title": "正在欣赏 · 轻盈曳步"
+    },
+    {
+      "id": "selene",
+      "look": "low",
+      "action": "swing",
+      "name": "赛琳",
+      "title": "正在欣赏 · 爵士摇摆"
+    },
+    {
+      "id": "selene",
+      "look": "low",
+      "action": "ballet",
+      "name": "赛琳",
+      "title": "正在欣赏 · 花间圆舞"
+    },
+    {
+      "id": "xinglan",
+      "look": "original",
+      "action": "dance",
+      "name": "洛星澜",
+      "title": "正在欣赏 · 轻快律动"
+    },
+    {
+      "id": "xinglan",
+      "look": "original",
+      "action": "sway",
+      "name": "洛星澜",
+      "title": "正在欣赏 · 月光摇摆"
+    },
+    {
+      "id": "xinglan",
+      "look": "original",
+      "action": "groove",
+      "name": "洛星澜",
+      "title": "正在欣赏 · 日落舞步"
+    },
+    {
+      "id": "xinglan",
+      "look": "original",
+      "action": "shuffle",
+      "name": "洛星澜",
+      "title": "正在欣赏 · 轻盈曳步"
+    },
+    {
+      "id": "xinglan",
+      "look": "original",
+      "action": "swing",
+      "name": "洛星澜",
+      "title": "正在欣赏 · 爵士摇摆"
+    },
+    {
+      "id": "xinglan",
+      "look": "original",
+      "action": "ballet",
+      "name": "洛星澜",
+      "title": "正在欣赏 · 花间圆舞"
+    },
+    {
+      "id": "gufei",
+      "look": "original",
+      "action": "dance",
+      "name": "顾绯",
+      "title": "正在欣赏 · 轻快律动"
+    },
+    {
+      "id": "gufei",
+      "look": "original",
+      "action": "sway",
+      "name": "顾绯",
+      "title": "正在欣赏 · 月光摇摆"
+    },
+    {
+      "id": "gufei",
+      "look": "original",
+      "action": "groove",
+      "name": "顾绯",
+      "title": "正在欣赏 · 日落舞步"
+    },
+    {
+      "id": "gufei",
+      "look": "original",
+      "action": "shuffle",
+      "name": "顾绯",
+      "title": "正在欣赏 · 轻盈曳步"
+    },
+    {
+      "id": "gufei",
+      "look": "original",
+      "action": "swing",
+      "name": "顾绯",
+      "title": "正在欣赏 · 爵士摇摆"
+    },
+    {
+      "id": "gufei",
+      "look": "original",
+      "action": "ballet",
+      "name": "顾绯",
+      "title": "正在欣赏 · 花间圆舞"
+    },
+    {
+      "id": "evelyn",
+      "look": "original",
+      "action": "dance",
+      "name": "伊芙琳",
+      "title": "正在欣赏 · 轻快律动"
+    },
+    {
+      "id": "evelyn",
+      "look": "original",
+      "action": "sway",
+      "name": "伊芙琳",
+      "title": "正在欣赏 · 月光摇摆"
+    },
+    {
+      "id": "evelyn",
+      "look": "original",
+      "action": "groove",
+      "name": "伊芙琳",
+      "title": "正在欣赏 · 日落舞步"
+    },
+    {
+      "id": "evelyn",
+      "look": "original",
+      "action": "shuffle",
+      "name": "伊芙琳",
+      "title": "正在欣赏 · 轻盈曳步"
+    },
+    {
+      "id": "evelyn",
+      "look": "original",
+      "action": "swing",
+      "name": "伊芙琳",
+      "title": "正在欣赏 · 爵士摇摆"
+    },
+    {
+      "id": "evelyn",
+      "look": "original",
+      "action": "ballet",
+      "name": "伊芙琳",
+      "title": "正在欣赏 · 花间圆舞"
+    },
+    {
+      "id": "nanzhi",
+      "look": "original",
+      "action": "dance",
+      "name": "南栀",
+      "title": "正在欣赏 · 轻快律动"
+    },
+    {
+      "id": "nanzhi",
+      "look": "original",
+      "action": "sway",
+      "name": "南栀",
+      "title": "正在欣赏 · 月光摇摆"
+    },
+    {
+      "id": "nanzhi",
+      "look": "original",
+      "action": "groove",
+      "name": "南栀",
+      "title": "正在欣赏 · 日落舞步"
+    },
+    {
+      "id": "nanzhi",
+      "look": "original",
+      "action": "shuffle",
+      "name": "南栀",
+      "title": "正在欣赏 · 轻盈曳步"
+    },
+    {
+      "id": "nanzhi",
+      "look": "original",
+      "action": "swing",
+      "name": "南栀",
+      "title": "正在欣赏 · 爵士摇摆"
+    },
+    {
+      "id": "nanzhi",
+      "look": "original",
+      "action": "ballet",
+      "name": "南栀",
+      "title": "正在欣赏 · 花间圆舞"
+    },
+    {
+      "id": "reina",
+      "look": "original",
+      "action": "dance",
+      "name": "蕾娜",
+      "title": "正在欣赏 · 轻快律动"
+    },
+    {
+      "id": "reina",
+      "look": "original",
+      "action": "sway",
+      "name": "蕾娜",
+      "title": "正在欣赏 · 月光摇摆"
+    },
+    {
+      "id": "reina",
+      "look": "original",
+      "action": "groove",
+      "name": "蕾娜",
+      "title": "正在欣赏 · 日落舞步"
+    },
+    {
+      "id": "reina",
+      "look": "original",
+      "action": "shuffle",
+      "name": "蕾娜",
+      "title": "正在欣赏 · 轻盈曳步"
+    },
+    {
+      "id": "reina",
+      "look": "original",
+      "action": "swing",
+      "name": "蕾娜",
+      "title": "正在欣赏 · 爵士摇摆"
+    },
+    {
+      "id": "reina",
+      "look": "original",
+      "action": "ballet",
+      "name": "蕾娜",
+      "title": "正在欣赏 · 花间圆舞"
+    },
+    {
+      "id": "selene",
+      "look": "original",
+      "action": "dance",
+      "name": "赛琳",
+      "title": "正在欣赏 · 轻快律动"
+    },
+    {
+      "id": "selene",
+      "look": "original",
+      "action": "sway",
+      "name": "赛琳",
+      "title": "正在欣赏 · 月光摇摆"
+    },
+    {
+      "id": "selene",
+      "look": "original",
+      "action": "groove",
+      "name": "赛琳",
+      "title": "正在欣赏 · 日落舞步"
+    },
+    {
+      "id": "selene",
+      "look": "original",
+      "action": "shuffle",
+      "name": "赛琳",
+      "title": "正在欣赏 · 轻盈曳步"
+    },
+    {
+      "id": "selene",
+      "look": "original",
+      "action": "swing",
+      "name": "赛琳",
+      "title": "正在欣赏 · 爵士摇摆"
+    },
+    {
+      "id": "selene",
+      "look": "original",
+      "action": "ballet",
+      "name": "赛琳",
+      "title": "正在欣赏 · 花间圆舞"
+    }
+  ],
+  "stepCheck": [
+    "1 / 18 帧",
+    "2 / 18 帧",
+    "3 / 18 帧",
+    "4 / 18 帧",
+    "5 / 18 帧",
+    "6 / 18 帧",
+    "7 / 18 帧",
+    "8 / 18 帧",
+    "9 / 18 帧",
+    "10 / 18 帧",
+    "11 / 18 帧",
+    "12 / 18 帧",
+    "13 / 18 帧",
+    "14 / 18 帧",
+    "15 / 18 帧",
+    "16 / 18 帧",
+    "17 / 18 帧",
+    "18 / 18 帧"
+  ],
+  "stepWrap": "1 / 18 帧",
+  "mobileWidths": [
+    320,
+    390,
+    430
+  ],
+  "screenshots": [
+    "motion-18-small-phone.jpg",
+    "motion-18-transparent.jpg",
+    "motion-18-dance-menu.jpg",
+    "motion-18-game-live.jpg"
+  ],
+  "mobileViewports": [
+    {
+      "width": 320,
+      "height": 568,
+      "scrollWidth": 320,
+      "modalHeight": 499.828125
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "scrollWidth": 390,
+      "modalHeight": 742.71875
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "scrollWidth": 430
+    }
+  ],
+  "liveSave": {
+    "base": "http://localhost:5173",
+    "hearts": 105,
+    "memories": 5,
+    "character": "xinglan",
+    "wardrobe": "low"
+  },
+  "previewSave": {
+    "hearts": 77,
+    "memories": 2,
+    "character": "nanzhi",
+    "wardrobe": "low"
+  },
+  "directGameErrors": [],
+  "directArtbookErrors": [],
+  "phoneContainerObservationErrors": [
+    "MutationObserver.observe: parameter 1 is not of type Node (browser observation, twice)"
+  ],
+  "cacheReloadCheck": {
+    "character": "xinglan",
+    "wardrobe": "original",
+    "dance": "shuffle",
+    "result": "played after twelve looks"
+  },
+  "classicCompatibilityCheck": {
+    "character": "xiaoman",
+    "danceMenu": [
+      "dance"
+    ],
+    "result": "played"
+  }
+}

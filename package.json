@@ -1,0 +1,23 @@
+{
+  "name": "heartfelt-days",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "test": "node --experimental-strip-types --test --test-isolation=none tests/*.test.ts"
+  },
+  "dependencies": {
+    "lucide": "^0.468.0",
+    "phaser": "3.90.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.58.0",
+    "@types/node": "^24.0.0",
+    "sharp": "^0.35.5",
+    "typescript": "~5.9.3",
+    "vite": "^7.3.0"
+  }
+}

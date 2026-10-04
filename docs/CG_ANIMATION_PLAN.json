@@ -1,0 +1,96 @@
+[
+  {
+    "key": "everyday",
+    "cols": 4,
+    "rows": 2,
+    "count": 8,
+    "actions": {
+      "idle": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "walk": [
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    "instructions": "Row 1: four sequential subtle IDLE frames: relaxed standing with friendly expression, natural blink, slight head tilt, settle to neutral. Keep torso nearly fixed. Row 2: four sequential natural WALK cycle frames moving toward viewer right in three-quarter view: left-foot forward contact, passing with right heel lifted, right-foot forward contact, passing with left heel lifted. Arms swing opposite the legs; feet alternate, not four copies of the same step."
+  },
+  {
+    "key": "moments",
+    "cols": 4,
+    "rows": 2,
+    "count": 8,
+    "actions": {
+      "sit": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "wave": [
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    "instructions": "Row 1: four sequential SIT DOWN poses, moving from a small knee bend to halfway lowering, then seated upright, then a relaxed seated pose with hands on lap. Sit on an INVISIBLE ordinary stool at normal knee height; do not draw any furniture. Legs together naturally, feet touch the same baseline; seated body is naturally shorter and MUST NOT be enlarged. Row 2: four sequential friendly HELLO WAVE frames: right hand rising to shoulder height, open palm waving outward, waving inward, hand lowering. Ordinary warm greeting, natural fingers, weight steady."
+  },
+  {
+    "key": "gestures",
+    "cols": 4,
+    "rows": 2,
+    "count": 8,
+    "actions": {
+      "stretch": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "hair": [
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    "instructions": "Row 1: four sequential gentle everyday STRETCH frames: shoulders roll back, hands rise just above head with elbows bent, a gentle sideways upper body stretch, arms lower again. Keep feet grounded, clothing unchanged and fully covering as in reference. Row 2: four sequential HAIR TUCK frames: right hand rises toward ear, fingers lightly sweep a lock of hair behind ear, hand rests briefly beside head with a warm smile, hand lowers to neutral. Subtle graceful natural gestures."
+  },
+  {
+    "key": "dances",
+    "cols": 4,
+    "rows": 4,
+    "count": 16,
+    "actions": {
+      "dance": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "sway": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "groove": [
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    "instructions": "Read poses in ROW-MAJOR order, left to right, top to bottom. Frames 1-6: a connected LIGHT POP STEP dance sequence: side step left with bent arms opening, cross-step, right hand to shoulder, side step right, arms return, weight settles; flowing small rhythmic steps. Frames 7-12: a connected ELEGANT WALTZ-INSPIRED SWAY sequence: arms rounded in front, weight left, quarter turn right with one foot pointing, arms softly open, turn front again, settle. Frames 13-16: ENERGETIC DISCO STEP: left arm bent upward and opposite heel lifted, hands near shoulders with a small knee bounce, right arm bent upward and left heel lifted, relaxed open arms. Three distinct upright clothed everyday dance routines. Keep hips neutral, no floor poses or acrobatics. Full-body natural adult anatomy; modest arm spread so hands fit inside each cell."
+  }
+]

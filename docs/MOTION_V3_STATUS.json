@@ -1,0 +1,506 @@
+[
+  {
+    "id": "xinglan",
+    "wardrobe": "low",
+    "action": "dance",
+    "status": "done"
+  },
+  {
+    "id": "xinglan",
+    "wardrobe": "low",
+    "action": "sway",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-9c80c876-2384-4751-b996-aecabb36fda6.png"
+  },
+  {
+    "id": "xinglan",
+    "wardrobe": "low",
+    "action": "groove",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-6fc78ed6-e415-439f-9144-7317075a0f92.png"
+  },
+  {
+    "id": "xinglan",
+    "wardrobe": "low",
+    "action": "shuffle",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-c568e1a0-afa6-4462-9a90-e9f80a1d3e3d.png"
+  },
+  {
+    "id": "xinglan",
+    "wardrobe": "low",
+    "action": "swing",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-45b816c2-4b93-4aae-82c6-f7fd5f57dbd5.png"
+  },
+  {
+    "id": "xinglan",
+    "wardrobe": "low",
+    "action": "ballet",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-503d3646-0f2b-45b2-b4e9-69b8fde4db70.png"
+  },
+  {
+    "id": "xinglan",
+    "wardrobe": "original",
+    "action": "dance",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-99ec1ab6-bcba-4f36-a785-3ddf6fb20158.png"
+  },
+  {
+    "id": "xinglan",
+    "wardrobe": "original",
+    "action": "sway",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-fdccfe3d-adfa-4919-ac93-355fced5b40d.png"
+  },
+  {
+    "id": "xinglan",
+    "wardrobe": "original",
+    "action": "groove",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-0f085696-1dcd-48c1-a126-3035651da569.png"
+  },
+  {
+    "id": "xinglan",
+    "wardrobe": "original",
+    "action": "shuffle",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-20315835-6ca6-434b-af36-b7b4dc1a711f.png"
+  },
+  {
+    "id": "xinglan",
+    "wardrobe": "original",
+    "action": "swing",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-5378401d-aa72-4eb6-9e32-38f2bcb4617d.png"
+  },
+  {
+    "id": "xinglan",
+    "wardrobe": "original",
+    "action": "ballet",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-9011e622-8812-48da-b446-8ff2e5188b55.png"
+  },
+  {
+    "id": "gufei",
+    "wardrobe": "low",
+    "action": "dance",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-6e15978e-cec4-4ef2-a24d-cf8cdfab6d81.png"
+  },
+  {
+    "id": "gufei",
+    "wardrobe": "low",
+    "action": "sway",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-7910a20b-9083-4751-b864-17f90941b0d8.png"
+  },
+  {
+    "id": "gufei",
+    "wardrobe": "low",
+    "action": "groove",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-f3688991-43d1-4ec5-bfb8-ecceb43f06c9.png"
+  },
+  {
+    "id": "gufei",
+    "wardrobe": "low",
+    "action": "shuffle",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-a700c698-dff2-4271-9d4a-4dd1a37892bf.png"
+  },
+  {
+    "id": "gufei",
+    "wardrobe": "low",
+    "action": "swing",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-dea43beb-5f4b-417b-a6b2-a002b39a4b80.png"
+  },
+  {
+    "id": "gufei",
+    "wardrobe": "low",
+    "action": "ballet",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-55604705-6afd-4736-886f-35334afa94c3.png"
+  },
+  {
+    "id": "gufei",
+    "wardrobe": "original",
+    "action": "dance",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-a0eafecf-a6a8-40e1-8399-8fbb968625e4.png"
+  },
+  {
+    "id": "gufei",
+    "wardrobe": "original",
+    "action": "sway",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-dec17922-393e-495e-94db-9c4d611bf857.png"
+  },
+  {
+    "id": "gufei",
+    "wardrobe": "original",
+    "action": "groove",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-8898e675-e20d-4b46-99e6-a2f4370b90da.png"
+  },
+  {
+    "id": "gufei",
+    "wardrobe": "original",
+    "action": "shuffle",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-c81cf1ce-e656-4af2-9cb8-44c51c9941de.png"
+  },
+  {
+    "id": "gufei",
+    "wardrobe": "original",
+    "action": "swing",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-720180af-a20e-4e2e-8bf0-eb01f1332949.png"
+  },
+  {
+    "id": "gufei",
+    "wardrobe": "original",
+    "action": "ballet",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-44fdcecd-3a5f-4582-953c-b9fd690cb116.png"
+  },
+  {
+    "id": "evelyn",
+    "wardrobe": "low",
+    "action": "dance",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-104dabb9-6f57-4ab9-a0cd-3aa9d56c884a.png"
+  },
+  {
+    "id": "evelyn",
+    "wardrobe": "low",
+    "action": "sway",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-593aa055-b19b-49a5-973c-60c0b8eaaeac.png"
+  },
+  {
+    "id": "evelyn",
+    "wardrobe": "low",
+    "action": "groove",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-f95857d9-b3ae-4a2a-9511-97198af233c8.png"
+  },
+  {
+    "id": "evelyn",
+    "wardrobe": "low",
+    "action": "shuffle",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-c4330168-d639-46bd-bcf7-ce265706b6b4.png"
+  },
+  {
+    "id": "evelyn",
+    "wardrobe": "low",
+    "action": "swing",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-8748f82d-2e40-4df1-bd1c-54916fde8a40.png"
+  },
+  {
+    "id": "evelyn",
+    "wardrobe": "low",
+    "action": "ballet",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-6a8a907e-bb26-4ec0-9f59-ad2a65fd6b71.png"
+  },
+  {
+    "id": "evelyn",
+    "wardrobe": "original",
+    "action": "dance",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-4c7ff3c7-4c5e-412b-9607-3cbaa21dbde4.png"
+  },
+  {
+    "id": "evelyn",
+    "wardrobe": "original",
+    "action": "sway",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-cf2d9cf5-4b07-4528-b46b-16b01f8f6799.png"
+  },
+  {
+    "id": "evelyn",
+    "wardrobe": "original",
+    "action": "groove",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-f000df05-650f-4104-a9d1-b43f8abf141e.png"
+  },
+  {
+    "id": "evelyn",
+    "wardrobe": "original",
+    "action": "shuffle",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-c23e4803-5d66-4dd0-aeda-711a017bc38f.png"
+  },
+  {
+    "id": "evelyn",
+    "wardrobe": "original",
+    "action": "swing",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-c12f00e5-e9d5-4078-a33f-36875cf5826b.png"
+  },
+  {
+    "id": "evelyn",
+    "wardrobe": "original",
+    "action": "ballet",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-633bcaf1-340e-4fc8-8cec-a126f6422645.png"
+  },
+  {
+    "id": "nanzhi",
+    "wardrobe": "low",
+    "action": "dance",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-4abbd38c-7316-4d82-a0b9-74776932fe16.png",
+    "discardedSource": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-11d5b6d0-a60b-4127-bca7-593c0aca9875.png"
+  },
+  {
+    "id": "nanzhi",
+    "wardrobe": "low",
+    "action": "sway",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-4691cf56-7a00-4616-9b9d-a4be11035662.png"
+  },
+  {
+    "id": "nanzhi",
+    "wardrobe": "low",
+    "action": "groove",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-6e4a3e2f-6385-4044-8b21-e53084a988ff.png"
+  },
+  {
+    "id": "nanzhi",
+    "wardrobe": "low",
+    "action": "shuffle",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-acfcfec3-876e-4baf-926e-a0496df7aa3f.png"
+  },
+  {
+    "id": "nanzhi",
+    "wardrobe": "low",
+    "action": "swing",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-b99bdbc3-eb29-4c2a-bb4c-c746331f5ba6.png"
+  },
+  {
+    "id": "nanzhi",
+    "wardrobe": "low",
+    "action": "ballet",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-cda6f2b0-d1fd-4277-ad37-1957252f3562.png"
+  },
+  {
+    "id": "nanzhi",
+    "wardrobe": "original",
+    "action": "dance",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-8c1c5943-1019-456f-863b-b7ebdf95106f.png"
+  },
+  {
+    "id": "nanzhi",
+    "wardrobe": "original",
+    "action": "sway",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-34a6b3c7-6dd9-4307-971d-705c516a6eb8.png"
+  },
+  {
+    "id": "nanzhi",
+    "wardrobe": "original",
+    "action": "groove",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-39793391-0528-4816-ba24-925042ea5dc2.png"
+  },
+  {
+    "id": "nanzhi",
+    "wardrobe": "original",
+    "action": "shuffle",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-7cc9b87e-f750-4c04-8e66-384258fb4aa6.png"
+  },
+  {
+    "id": "nanzhi",
+    "wardrobe": "original",
+    "action": "swing",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-9fb60114-af7e-4311-a19e-44f1a800fd80.png"
+  },
+  {
+    "id": "nanzhi",
+    "wardrobe": "original",
+    "action": "ballet",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-6870109d-ef3f-4a86-976c-7962b3bf36f0.png"
+  },
+  {
+    "id": "reina",
+    "wardrobe": "low",
+    "action": "dance",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-c4cad69c-3b71-4ce5-9617-b3b5511eaa99.png"
+  },
+  {
+    "id": "reina",
+    "wardrobe": "low",
+    "action": "sway",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-082b8411-daf8-4b76-9dd2-cbf5facfc75a.png"
+  },
+  {
+    "id": "reina",
+    "wardrobe": "low",
+    "action": "groove",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-afc80c73-7de7-4681-9c9c-861bb3716c7b.png"
+  },
+  {
+    "id": "reina",
+    "wardrobe": "low",
+    "action": "shuffle",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-c0830066-e737-46f6-845c-a2bf93784b4b.png"
+  },
+  {
+    "id": "reina",
+    "wardrobe": "low",
+    "action": "swing",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-723c4175-2e8e-4de0-8b78-b211697dc981.png"
+  },
+  {
+    "id": "reina",
+    "wardrobe": "low",
+    "action": "ballet",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-b45865d9-94ec-4812-959e-d774a4b3486b.png"
+  },
+  {
+    "id": "reina",
+    "wardrobe": "original",
+    "action": "dance",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-c4a57e4a-e17a-4f25-bae5-ca77be5e6e4e.png"
+  },
+  {
+    "id": "reina",
+    "wardrobe": "original",
+    "action": "sway",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-95ba589f-a1ac-47fe-94c0-8f7c5fada43a.png"
+  },
+  {
+    "id": "reina",
+    "wardrobe": "original",
+    "action": "groove",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-f2903771-b32f-4373-881e-22340dca423d.png"
+  },
+  {
+    "id": "reina",
+    "wardrobe": "original",
+    "action": "shuffle",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-e6161976-c016-43da-b611-7f49abc164f7.png"
+  },
+  {
+    "id": "reina",
+    "wardrobe": "original",
+    "action": "swing",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-51a4e763-2958-4e97-8319-439feac8487c.png"
+  },
+  {
+    "id": "reina",
+    "wardrobe": "original",
+    "action": "ballet",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-9128fafb-c9e2-4bae-8509-79a7517f9c6f.png"
+  },
+  {
+    "id": "selene",
+    "wardrobe": "low",
+    "action": "dance",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-e12bf020-3ed9-48e7-9b3c-89663fdc8e80.png"
+  },
+  {
+    "id": "selene",
+    "wardrobe": "low",
+    "action": "sway",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-78685ce2-2f4a-4493-b2d7-c4f17d206cfc.png"
+  },
+  {
+    "id": "selene",
+    "wardrobe": "low",
+    "action": "groove",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-17e1095f-c447-4de0-a347-b291629ebb60.png"
+  },
+  {
+    "id": "selene",
+    "wardrobe": "low",
+    "action": "shuffle",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-9f542409-aab5-4309-b175-3de1deb8372a.png"
+  },
+  {
+    "id": "selene",
+    "wardrobe": "low",
+    "action": "swing",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-26bb6b1a-39f1-4cd8-a90b-d359002b8783.png"
+  },
+  {
+    "id": "selene",
+    "wardrobe": "low",
+    "action": "ballet",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-88542e14-07c1-422f-ac67-2e91c6284155.png"
+  },
+  {
+    "id": "selene",
+    "wardrobe": "original",
+    "action": "dance",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-2efb8512-fd2e-470d-ab98-a4324a8d8d5a.png"
+  },
+  {
+    "id": "selene",
+    "wardrobe": "original",
+    "action": "sway",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-43e6ccfc-518b-4520-b2be-bb4a346f2cd3.png"
+  },
+  {
+    "id": "selene",
+    "wardrobe": "original",
+    "action": "groove",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-95c78443-93c9-43c3-947f-6bec705fa373.png"
+  },
+  {
+    "id": "selene",
+    "wardrobe": "original",
+    "action": "shuffle",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-0f53e140-75fc-4b8d-9fa9-fe02ba26430b.png"
+  },
+  {
+    "id": "selene",
+    "wardrobe": "original",
+    "action": "swing",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-59c8eeb4-eefb-4fed-bfad-398a58238d1d.png"
+  },
+  {
+    "id": "selene",
+    "wardrobe": "original",
+    "action": "ballet",
+    "status": "done",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a101f6-05de-7622-a74d-6918ce7272e0\\exec-1a1c99c4-195b-47cf-aac8-093a8a24fe0b.png"
+  }
+]

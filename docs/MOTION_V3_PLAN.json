@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "characters": ["xinglan", "gufei", "evelyn", "nanzhi", "reina", "selene"],
+  "wardrobes": ["low", "original"],
+  "framesPerRoutine": 18,
+  "columns": 6,
+  "rows": 3,
+  "cycleBeats": 2,
+  "routines": [
+    {"action":"dance","title":"轻快律动","beatMs":600,"beats":16,"kind":"upgraded","description":"左右轻快侧步、脚步跟随与反向摆臂，18 个均匀采样动作组成双拍循环。"},
+    {"action":"sway","title":"月光摇摆","beatMs":850,"beats":12,"kind":"upgraded","description":"圆润手臂与轻柔重心移动，缓慢四分之一转身后回到正面。"},
+    {"action":"groove","title":"日落舞步","beatMs":500,"beats":20,"kind":"upgraded","description":"复古迪斯科踏步、交替提踵和肩部律动，手臂保持紧凑。"},
+    {"action":"shuffle","title":"轻盈曳步","beatMs":480,"beats":24,"kind":"new","description":"交替 running-man 与 Charleston 脚步，脚尖前点、脚跟回收与轻快小步。"},
+    {"action":"swing","title":"爵士摇摆","beatMs":550,"beats":20,"kind":"new","description":"摇摆爵士的摇步、交替脚尖点地、肩部反向移动与俏皮短摆臂。"},
+    {"action":"ballet","title":"花间圆舞","beatMs":750,"beats":16,"kind":"new","description":"芭蕾启发的半脚尖小步、柔和圆臂、轻微膝屈与优雅半转身，无跳跃和踮脚特技。"}
+  ],
+  "assetCount": 72,
+  "danceFrameCount": 1296,
+  "constraints": ["成年虚构游戏 CG，服装与人物身份保持一致", "每组 18 个真实独立姿态，不复制帧充数", "透明背景与严格独立帧检查", "固定人物大小、脚底基线与格子中心", "新增图片保存在各人物对应服装的 motion-v3 目录"]
+}

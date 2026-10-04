@@ -1,0 +1,44 @@
+[
+  {
+    "id": "xinglan",
+    "name": "洛星澜",
+    "age": 19,
+    "style": "曜石运动",
+    "direction": "风格化美型 JRPG CG，年轻成年五官，无真人照片感"
+  },
+  {
+    "id": "gufei",
+    "name": "顾绯",
+    "age": 19,
+    "style": "绯红谜影",
+    "direction": "风格化美型 JRPG CG，年轻成年五官，无真人照片感"
+  },
+  {
+    "id": "evelyn",
+    "name": "伊芙琳",
+    "age": 19,
+    "style": "月光香槟",
+    "direction": "风格化美型 JRPG CG，年轻成年五官，无真人照片感"
+  },
+  {
+    "id": "nanzhi",
+    "name": "南栀",
+    "age": 19,
+    "style": "翡翠东方",
+    "direction": "风格化美型 JRPG CG，年轻成年五官，无真人照片感"
+  },
+  {
+    "id": "reina",
+    "name": "蕾娜",
+    "age": 19,
+    "style": "银蓝都市",
+    "direction": "风格化美型 JRPG CG，年轻成年五官，无真人照片感"
+  },
+  {
+    "id": "selene",
+    "name": "赛琳",
+    "age": 19,
+    "style": "日落律动",
+    "direction": "风格化美型 JRPG CG，年轻成年五官，无真人照片感"
+  }
+]
