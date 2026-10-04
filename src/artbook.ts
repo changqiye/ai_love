@@ -27,9 +27,24 @@ function updateDetails(){
   $('#show-portrait').toggleAttribute('disabled',!v.master);
   $('#studio-actions').innerHTML=actionsFor(person).map(a=>'<button data-art-action="'+a+'" class="'+(!portraitMode&&action===a?'chosen':'')+'">'+actionLabels[a]+(isCG(person)&&isDance(a)?'<small>18 帧</small>':'')+'</button>').join('');
   const sheetLabels:Record<string,string>={classic:'日常动作',everyday:'待机与行走',moments:'坐下与招手',gestures:'伸展与发梢',dances:'三套舞蹈',...actionLabels};
-  $('#downloads').innerHTML='<strong>收藏透明原图</strong>'+(v.master?'<a href="'+v.master.url.replace('.webp','.png')+'" download>高清立绘 ↓</a>':'')+Object.entries(v.sheets).map(([key,sheet])=>'<a href="'+sheet.url.replace('.webp','.png')+'" download>'+sheetLabels[key]+' ↓</a>').join('');
+  const exportLink=(key:string,url:string,label:string)=>'<a href="'+url+'" data-export-sheet="'+key+'" download="'+person+'-'+wardrobe+'-'+key+'.png">'+label+' ↓</a>';
+  $('#downloads').innerHTML='<strong id="download-status" role="status">收藏透明 PNG</strong>'+(v.master?exportLink('master',v.master.url,'高清立绘'):'')+Object.entries(v.sheets).map(([key,sheet])=>exportLink(key,sheet.url,sheetLabels[key])).join('');
 }
 async function imageAt(url:string){const img=new Image();img.src=url;await img.decode();return img;}
+async function exportPng(link:HTMLAnchorElement){
+  if(link.dataset.busy)return;
+  link.dataset.busy='true';const label=link.textContent;link.textContent='正在保存…';
+  try{
+    const cached=images[link.dataset.exportSheet!],img=cached?.src===link.href?cached:await imageAt(link.href);
+    const output=document.createElement('canvas');output.width=img.naturalWidth;output.height=img.naturalHeight;
+    output.getContext('2d')!.drawImage(img,0,0);
+    const blob=await new Promise<Blob>((resolve,reject)=>output.toBlob(value=>value?resolve(value):reject(new Error('PNG export failed')),'image/png'));
+    const url=URL.createObjectURL(blob),download=document.createElement('a');download.href=url;download.download=link.download;
+    document.body.append(download);download.click();download.remove();setTimeout(()=>URL.revokeObjectURL(url),60000);
+    $('#download-status').textContent='透明 PNG 已准备好';
+  }catch{$('#download-status').textContent='保存失败，请再试一次';}
+  finally{delete link.dataset.busy;link.textContent=label;}
+}
 async function loadPerson(){
   const seq=++token;loading=true;$('#studio-loading').classList.remove('hidden');$('#studio-loading').textContent='正在准备角色与动作…';updateDetails();
   const v=visualFor(person,wardrobe);
@@ -38,6 +53,8 @@ async function loadPerson(){
   }catch{if(seq!==token)return;$('#studio-loading').innerHTML='素材加载失败。<button id="retry-art">重新加载</button>';$('#retry-art').onclick=()=>void loadPerson();}
 }
 document.addEventListener('click',event=>{
+  const download=(event.target as Element).closest<HTMLAnchorElement>('[data-export-sheet]');
+  if(download){event.preventDefault();void exportPng(download);return;}
   const target=event.target as Element,card=target.closest<HTMLElement>('[data-art-character]'),tab=target.closest<HTMLElement>('[data-art-group]'),outfit=target.closest<HTMLElement>('[data-art-wardrobe]'),motion=target.closest<HTMLElement>('[data-art-action]'),scene=target.closest<HTMLElement>('[data-art-scene]');
   if(card){person=card.dataset.artCharacter as CharacterId;portraitMode=isCG(person);action='idle';renderGallery();void loadPerson();$('#motion-studio').scrollIntoView({behavior:matchMedia('(prefers-reduced-motion:reduce)').matches?'instant':'smooth',block:'start'});}
   if(tab){group=tab.dataset.artGroup as typeof group;person=group==='cg'?'xinglan':'xiaoman';if(group==='classic')wardrobe='original';portraitMode=group==='cg';action='idle';renderGallery();void loadPerson();}

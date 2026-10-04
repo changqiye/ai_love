@@ -4,6 +4,9 @@
 
 ## 开始玩
 
+公网访问地址：**https://ai-love-changqiye.new-dell-7068.chatgpt.site/**。采用托管 HTTPS 地址，手机直接竖屏打开；不依赖本机持续开机。
+
+
 双击本目录的 **启动游戏.cmd**，打开 **http://localhost:5173/**。美术设定集：**http://localhost:5173/artbook.html**。电脑上也可打开 **http://localhost:5173/phone-preview.html**，以小屏、标准、大屏三种竖屏尺寸体验。
 
 手机与电脑连接同一局域网后，使用启动窗口显示的 Network 地址进入。此次本机地址为 **http://192.168.0.107:5173/**；网络地址变化时以启动窗口为准。关闭启动窗口会停止预览，浏览器保存的进度仍保留。
@@ -81,7 +84,7 @@ npm run build
 npm run preview
 ```
 
-构建预览地址为 http://localhost:4173。游戏与设定集均包含在 `dist`；需通过服务器访问。静态托管支持本地剧情，真实 AI 需要对应服务端接口。
+构建预览地址为 http://localhost:4173。游戏与设定集均包含在 `dist`；需通过服务器访问。静态托管支持本地剧情，真实 AI 需要对应服务端接口。当前公网版使用本地剧情模式。
 
 修改素材后重新验证：
 
@@ -90,6 +93,14 @@ node scripts/inspect-cg.mjs
 node scripts/check-frame-isolation.mjs
 node scripts/inspect-motion.mjs
 node scripts/check-runtime-assets.mjs
+# 静态发布版不包含重复 PNG，检查全部运行时素材：
+node scripts/check-runtime-assets.mjs http://localhost:4173 --runtime-only
 ```
 
 原 CG 检查涵盖现有 48 张图集；新增舞蹈使用 `inspect-motion.mjs` 检查 72 张图集的 1296 个独立帧、重复图片、画面边缘裁切、邻帧像素和无损 alpha，全部通过后才生成运行时清单。素材访问检查同时覆盖运行时图片和可下载 PNG。三位插画素材使用独立检查程序。制作参考：[Phaser 动画](https://docs.phaser.io/phaser/concepts/animations)、[屏幕适配](https://docs.phaser.io/phaser/concepts/scale-manager)、[Vite](https://vite.dev/guide/)。
+
+## 公网发布
+
+Sites 身份与静态目录配置位于 `.openai/hosting.json`。正式构建保留全部运行时无损 WebP，原始 PNG 保留在 `public/assets/` 与 GitHub 仓库；为了符合托管发布包 256 MiB 上限，构建输出不重复包含原始 PNG。设定集的下载按钮按完整图像尺寸在浏览器导出透明 PNG，无需额外图片服务器。
+
+修改后运行 `npm run build`，再使用 Sites 发布流程保存版本并部署。`.sites-runtime/` 是被忽略的本地发布临时目录。浏览器进度按访问地址独立保存，需要迁移本机进度时可在设置里导出并导入。
