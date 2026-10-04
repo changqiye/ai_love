@@ -21,7 +21,7 @@ const ambience=new Ambience();
 const reducedQuery=matchMedia('(prefers-reduced-motion: reduce)');
 if(reducedQuery.matches)state.reducedMotion=true;
 let activeAction:Action='idle';
-const aiStatus=fetch('/api/status').then(r=>r.ok?r.json():null).then(data=>Boolean(data?.enabled)).catch(()=>false);
+const aiStatus=fetch('/api/status.json').then(r=>r.ok?r.json():null).then(data=>Boolean(data?.enabled)).catch(()=>false);
 interface Activity {type:Exclude<Action,'idle'>;elapsed:number;duration:number;hits:Set<number>;score:number;beatMs:number;beats:number;}
 let activity:Activity|null=null;
 type CharacterCollection='latest'|'original'|'classic';

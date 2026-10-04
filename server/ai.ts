@@ -5,8 +5,8 @@ import type { CharacterId } from '../src/content.ts';
 export interface AIConfig { AI_API_KEY?: string; AI_BASE_URL?: string; AI_MODEL?: string }
 function json(res:ServerResponse,status:number,value:unknown){res.writeHead(status,{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store'});res.end(JSON.stringify(value));}
 export async function handleApi(req:IncomingMessage,res:ServerResponse,config:AIConfig):Promise<boolean>{
-  const path=req.url?.split('?')[0];if(path!=='/api/chat'&&path!=='/api/status')return false;
-  if(path==='/api/status'){json(res,200,{enabled:Boolean(config.AI_API_KEY&&config.AI_BASE_URL&&config.AI_MODEL)});return true;}
+  const path=req.url?.split('?')[0];if(path!=='/api/chat'&&path!=='/api/status'&&path!=='/api/status.json')return false;
+  if(path==='/api/status'||path==='/api/status.json'){json(res,200,{enabled:Boolean(config.AI_API_KEY&&config.AI_BASE_URL&&config.AI_MODEL)});return true;}
   if(req.method!=='POST'){json(res,405,{error:'Method not allowed'});return true;}
   // Reject cross-origin browser requests; secrets remain exclusively on the server.
   const origin=req.headers.origin;
