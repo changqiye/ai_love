@@ -3,6 +3,7 @@ import cgData from './generated/cg.json';
 import motionData from './generated/motion.json';
 import {classicCharacterIds,cgCharacterIds,isDance} from './content';
 import {characters} from './content';
+import {DANCE_PLAYBACK_SPEED} from './rhythm';
 import type {Action,CharacterId,Wardrobe} from './content';
 
 export interface Frame {x:number;y:number;w:number;h:number;origin?:{x:number;y:number}}
@@ -21,6 +22,13 @@ for(const id of cgCharacterIds){
   const base=(cgData.characters as Record<string,Visual>)[id],expanded=withExpandedDances(base,motions[id].original);
   expanded.variants={...base.variants,low:withExpandedDances(base.variants!.low!,motions[id].low)};
   visuals[id]=expanded;
+}
+// Keep the game and artbook at the same half-speed baseline for every outfit.
+for(const visual of Object.values(visuals))for(const variant of [visual,...Object.values(visual.variants??{})]){
+  for(const action of Object.keys(variant.actions) as Action[]){
+    const clip=variant.actions[action]!;
+    if(isDance(action))variant.actions[action]={...clip,fps:clip.fps*DANCE_PLAYBACK_SPEED};
+  }
 }
 export const cgFrameTotal=cgCharacterIds.reduce((total,id)=>total+visuals[id].frameCount+visuals[id].variants!.low!.frameCount,0);
 export const activeFrameTotal=cgFrameTotal+classicCharacterIds.reduce((total,id)=>total+visuals[id].frameCount,0);
